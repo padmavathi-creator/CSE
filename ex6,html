@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML CSS Example</title>
+    <!-- Links the external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+    <p>This paragraph is styled using an <strong>external</strong> CSS file.</p>
+
+    <h2 style="color: blue; text-align: center;">Inline Style Example</h2>
+    <p style="background-color: lightgray; padding: 10px;">This paragraph has <strong>inline</strong> CSS applied directly to the element using the `style` attribute.</p>
+
+</body>
+</html>
